@@ -2,7 +2,7 @@
 pragma solidity ^0.8.7;
 
 
-contract StateVariables {
+contract LocalVariables {
 
     uint public i;
     bool public b;
