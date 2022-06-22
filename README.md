@@ -1,2 +1,2 @@
-# solidity-basics
+# Solidity Basics
 Solidity lecture notes.
